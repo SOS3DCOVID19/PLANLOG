@@ -8,6 +8,13 @@ O SOS 3D COVID 19 é um coletivo multidisciplinar que trabalha na fabricação d
 
 A todos os makers e voluntários que dedicaram seus recursos, equipamento, e tempo para cuidar de quem cuida da gente: os profissioais da saúde. Além disso, precisamos agradecer ao:
 
+Time de desenvolvimento da SOS 3D COVID 19: 
+ 
+- Bruno Dantas 
+- Fernanda Prazeres
+- Lucas Barbosa
+
+
 Time de logística da SOS 3D COVID 19:
 
 - Alexander Ishikawa
@@ -21,9 +28,4 @@ Time de logística da SOS 3D COVID 19:
 - Lidiane Lima
 - Luiz Ludwig
 - Milena Peclat
-
-Time de desenvolvimento da SOS 3D COVID 19: 
  
-- Bruno Dantas 
-- Fernanda Prazeres
-- Lucas Barbosa 
