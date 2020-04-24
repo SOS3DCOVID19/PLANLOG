@@ -1,5 +1,5 @@
 # PLANLOG
-Integração Google Forms com o Google Sheets para controle de estoque, dos hospitais e makers cadastrados na rede do SOS 3D COVID 19. 
+Integração Google Forms com o Google Sheets para controle de estoque, unidades de saúde e makers cadastrados na rede do SOS 3D COVID 19. 
 
 O SOS 3D COVID 19 é um coletivo multidisciplinar que trabalha na fabricação de protetores faciais e equipamentos médicos, usando técnicas de impressão 3D e corte a laser, em prol de uma causa única: a proteção dos profissionais da área de saúde  que enfrentam a batalha contra o novo vírus Corona (COVID-19 ). 
 
